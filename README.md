@@ -124,7 +124,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 GitHub Link
 
-This project is available at: GitHub Repository
+This project is available at: https://github.com/Deeksha0307/rule-engine-ast
 
 ### Instructions for Customization
 - Replace YOUR_USERNAME and YOUR_REPOSITORY_NAME with your actual GitHub username and the name of your repository.
